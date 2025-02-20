@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(234, 201, 207);
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    font-family: "Amita", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+section {
+        padding: 5px 10px;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        height: 500px;
+        align-items: center;
+        font-family: "Raleway", serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: beige;
+        text-align: center;
+        border-image-width: 6in;
+    }
+
